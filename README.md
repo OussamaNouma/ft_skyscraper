@@ -21,7 +21,7 @@ Une boîte plus haute cache les plus petites derrière elle.
 cc -Wall -Wextra -Werror *.c -o rush-01
 
 ##Execution
-```bash
+
 ./rush-01 "4 3 2 1 1 2 2 2 4 3 2 1 1 2 2 2"
 
 Format obligatoire :
